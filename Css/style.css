@@ -1,0 +1,266 @@
+/* This is newfile.html body section  */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* This is newfile.html banner-container section  */
+.banner-container{
+    background-color: darkslategrey;
+}
+/* This is newfile.html banner-column section */
+.banner-column{
+    background-color: black;
+}
+
+.navbar-container{
+ background-color: black;
+ position: sticky;
+ top: 0;
+ z-index: 2;
+
+}
+/* This is newfile.html ABOUT DROPDOWN section  */
+#myself{
+    background-color: black;
+}
+/* This is (newfile.html) and (index.html) section  */
+#Courses{
+    background-color: black;
+}
+/* This index.html e-learning section  */
+.e-learning{
+    background-color: black;
+    color: greenyellow;
+    ;
+}
+/* This is index.html carousel section Feedback ID  */
+#feedback{
+    background-color:black;
+    color: white;
+    padding: 7% 10%;
+}
+/* This is index.html carousel image section Feedback-image Class */
+.feedback-image{
+    width: 400px;
+    height: 350px; 
+}
+/* This is index.html carousel image section Carousel-item Class */
+.carousel-item{
+    text-align: center;
+    font-style: italic;    
+}
+/* This is index.html container.card section */
+.container-card{
+    background-color: #2F4F4F;
+}
+/* This is index.html employees-container section  */
+.employees-container{
+    background-color: #2F4F4F;
+    color: white;
+}
+/* This is index.html employees section HTML class  */
+.html{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:rebeccapurple;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 217, 255);
+}
+/* This is index.html container-discount section */
+.container-discount{
+    background-color: #2F4F4F;
+}
+/* This is index.html discount button section  */
+#discount{
+    color: white;
+    background-color: blueviolet;
+}
+/* This is index.html discount button hover id  */
+#discount:hover{
+    background-color: black;
+    color: white;
+}
+/* This is index.html container-section */
+.container-talk{
+    background-color: #2F4F4F;
+    color: white;
+}
+/* This is index.html talk button section  */
+#talk{
+    background-color: red;
+    color: whitesmoke;
+}
+/* This is index.html talk button hover section */
+#talk:hover{
+ background-color: black;    
+}
+/* This is index.html heading <a> tag text decoration section */
+#heading{
+    text-decoration: none;
+    color:red;
+}
+#heading:hover{
+    
+    color:navy;
+}  
+/* This index.html container-heading section */
+.container-heading{
+    background-color: #2F4F4F;
+    color: white;
+}
+/* This index.html form-bg section */
+.form-bg{
+    background-color: #2F4F4F;
+}
+/* This is index.html form button get-in-touch section */
+#get-in-touch{
+  background-color: blueviolet;
+  color: white;
+}
+/* This index.html form button get-in-touch hover section */
+#get-in-touch:hover{
+    background-color: black;
+}
+/* This is index.htm container-end section  */
+.container-end{
+    background-color: #2F4F4F;
+    color: white;
+}
+/* This is index.htm <a> tag color section */
+#end{
+    color:white;
+}
+/* This is index.htm <a> tag color hover section */
+#end:hover{
+    color: red;
+}
+/* This is index.html end-contaienr class alingment tag  */
+#alingment{
+     text-align: justify;
+}
+/* This is index.html end-contaienr class subscribe  */
+#subscribe{
+    background-color: blueviolet;
+    color: white;
+}
+/* This is index.html end-container class subscribe button hover  */
+#subscribe:hover{
+   background-color: black;
+}
+/* This is index.html container-link section */
+.container-link{
+    background-color: #2F4F4F;
+}
+
+/* .hr{
+    background-color: black;
+} */
+
+/* This is newfile.html about me section about-container class */
+.about-container{
+    background-color: khaki;
+}
+/* This is newfile.html Education section education-container class  */
+.education-container{
+    background-color:darkslateblue;
+}
+
+.bg-redtype{
+    background-color: tomato;
+}
+.bg-redtype:hover{
+    color: red!important;
+}
+/* This newfile.html education section redtype-color class */
+.redtype-color{
+    color: tomato!important;
+}
+/* This newfile.html education section circle class */
+.circle{
+    background-color: mintcream;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+/* 
+.project{
+    margin-right: 50px;
+} */
+/* This is newfile.html Project section project-container class */
+.project-container{
+    background-color: darkcyan;
+}
+/* This is newfile.html contact section form-container class   */
+.form-container{
+    background-color: #2F4F4F;
+}
+/* This is newfile.html contact section form-container first ID  */
+#first{
+    margin-right: 2px;
+}
+/* This is newfile.html contact section form-container second ID   */
+#second{
+    margin-right: 2px;
+}
+/* This is newfile.html contact section form-container third ID   */
+#third{
+    margin-right: 2px;
+}
+This is newfile.html form section inner-form class
+.inner-form{
+    background-color: #2F4F4F;
+}
+/* This is newfile.html footer section footer class */
+.footer{
+    background-color: black;
+    color: darkgreen;
+}
+/* This newfile.html footer section facebook class */
+.facebook{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(0, 217, 255);
+}
+/* This newfile.html footer section facebook class hover*/
+.facebook:hover{
+    background-color:black;
+
+}
+/* This newfile.html footer section github class */
+.github{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+    color:blueviolet;
+}
+/* This newfile.html footer section github class hover */
+.github:hover{
+ background-color: black;
+}
+/* This newfile.html footer section youtube class */
+.youtube{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color:white;
+    font-size: 40px;
+    text-align: center;
+    color:red;
+}
+/* This newfile.html footer section youtube class hover*/
+.youtube:hover{
+    background-color: black;
+}
